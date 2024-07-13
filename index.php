@@ -15,6 +15,9 @@
         <label for="lastname">Last Name:</label>
         <input type="text" id="lastname" name="lastname" required> <br><br>
 
+        <label for="age">Age: </label>
+        <input type="text" id="age" name="age" required> <br><br>
+
         <label for="email">Email:</label>
         <input type="text" id="email" name="email" required> <br><br>
 
